@@ -1,0 +1,12 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: PermissionsManager.cs(299,24): warning CS0219: The variable `granted' is assigned but its value is never used
+PermissionsManager.cs(353,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PermissionsManager.cs(384,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+
+[SERVER v1.0.20] Got Message: Exit
+[SERVER v1.0.20] Exit received.
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown
