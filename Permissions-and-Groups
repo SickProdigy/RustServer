@@ -26,3 +26,6 @@ oxide.grant user <user_name or STEAM64_ID> <permission>
 oxide.revoke user <user_name or STEAM64_ID> <permission>
 oxide.show user user_name		// show players assigned perms
 oxide.show perm coolplugin.use		// show who is assigned to that perm
+
+
+**** Don't forget to log out and back in to set permissions!
