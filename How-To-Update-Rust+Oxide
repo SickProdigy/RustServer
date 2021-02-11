@@ -4,7 +4,18 @@ Go to PuTTy
 
 login, go to the right folder, i used lgsm to install rust so this is how it updates also.
 
+https://linuxgsm.com/lgsm/rustserver/
+
+./rustserver      // List Full commands
+
 ./rustserver stop
 ./rustserver update   // This will update rust, may wipe the server not sure
+./rustserver validate
 ./rustserver mods-update      // I reckon will just update the Oxide, not sure about plugins. shouldn't update plugins no.
 ./rustserver start
+
+./rustserver restart
+./rustserver details
+./rustserver debug
+./rustserver backup
+./rustserver monitor
