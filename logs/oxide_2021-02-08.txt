@@ -1,0 +1,244 @@
+17:35 [Info] Loading Oxide Core v2.0.3991...
+17:35 [Info] Loading extensions...
+17:35 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+17:35 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:35 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+17:35 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:35 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:35 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:35 [Info] Local compiler MD5: 0
+17:35 [Info] Compiler MD5 hash did not match, downloading latest
+17:35 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+17:35 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+17:35 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:35 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:35 [Info] Using Covalence provider for game 'Rust'
+17:35 [Info] Loading plugins...
+17:35 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+17:35 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:44 [Info] IP address from Steam query: 0.0.0.0
+18:16 [Info] Loading Oxide Core v2.0.3991...
+18:16 [Info] Loading extensions...
+18:16 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+18:16 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+18:16 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+18:16 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+18:16 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+18:16 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:16 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:16 [Info] Using Covalence provider for game 'Rust'
+18:16 [Info] Loading plugins...
+18:16 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+18:16 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+18:25 [Info] IP address from Steam query: 0.0.0.0
+19:00 [Info] Loading Oxide Core v2.0.3991...
+19:00 [Info] Loading extensions...
+19:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:00 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:00 [Info] Using Covalence provider for game 'Rust'
+19:00 [Info] Loading plugins...
+19:00 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:09 [Info] IP address from Steam query: 0.0.0.0
+19:17 [Info] Loading Oxide Core v2.0.3991...
+19:17 [Info] Loading extensions...
+19:17 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:17 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:17 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:17 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:17 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:17 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:17 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:17 [Info] Using Covalence provider for game 'Rust'
+19:17 [Info] Loading plugins...
+19:17 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:17 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:19 [Info] Loading Oxide Core v2.0.3991...
+19:19 [Info] Loading extensions...
+19:19 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:19 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:19 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:19 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:19 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:19 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:19 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:19 [Info] Using Covalence provider for game 'Rust'
+19:19 [Info] Loading plugins...
+19:19 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:19 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:29 [Info] IP address from Steam query: 0.0.0.0
+19:34 [Info] Loading Oxide Core v2.0.3991...
+19:34 [Info] Loading extensions...
+19:34 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:34 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:34 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:34 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:34 [Info] Using Covalence provider for game 'Rust'
+19:34 [Info] Loading plugins...
+19:34 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:43 [Info] IP address from Steam query: 0.0.0.0
+19:51 [Info] Loading Oxide Core v2.0.3991...
+19:51 [Info] Loading extensions...
+19:51 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:51 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:51 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:51 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:51 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:51 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:51 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:51 [Info] Using Covalence provider for game 'Rust'
+19:51 [Info] Loading plugins...
+19:51 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:51 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:52 [Info] Loading Oxide Core v2.0.3991...
+19:52 [Info] Loading extensions...
+19:52 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+19:52 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:52 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+19:52 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:52 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:52 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:52 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:52 [Info] Using Covalence provider for game 'Rust'
+19:52 [Info] Loading plugins...
+19:52 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+19:52 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:02 [Info] IP address from Steam query: 0.0.0.0
+20:10 [Info] Loading Oxide Core v2.0.3991...
+20:10 [Info] Loading extensions...
+20:10 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:10 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:10 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+20:10 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:10 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:10 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:10 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:10 [Info] Using Covalence provider for game 'Rust'
+20:10 [Info] Loading plugins...
+20:10 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+20:10 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:19 [Info] IP address from Steam query: 0.0.0.0
+20:25 [Info] Loading Oxide Core v2.0.3991...
+20:25 [Info] Loading extensions...
+20:25 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:25 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:25 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+20:25 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:25 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:25 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:25 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:25 [Info] Using Covalence provider for game 'Rust'
+20:25 [Info] Loading plugins...
+20:25 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+20:25 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:29 [Info] Loading Oxide Core v2.0.3991...
+20:29 [Info] Loading extensions...
+20:29 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:29 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:29 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+20:29 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:29 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:29 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:29 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:29 [Info] Using Covalence provider for game 'Rust'
+20:29 [Info] Loading plugins...
+20:29 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+20:29 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:39 [Info] IP address from Steam query: 0.0.0.0
+20:43 [Info] Loading Oxide Core v2.0.3991...
+20:43 [Info] Loading extensions...
+20:43 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:43 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:43 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+20:43 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:43 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:43 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:43 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:43 [Info] Using Covalence provider for game 'Rust'
+20:43 [Info] Loading plugins...
+20:43 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+20:43 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:53 [Info] IP address from Steam query: 0.0.0.0
+20:59 [Info] GatherManager was compiled successfully in 3410ms
+20:59 [Warning] [Gathering Manager] New configuration file created.
+20:59 [Warning] [Gathering Manager] Configuration file updated.
+20:59 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 169ms
+20:59 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+21:00 [Error] Oxide.Ext.Discord is referenced by DiscordAuth plugin but is not loaded! An appropriate include file needs to be saved to plugins\include\Ext.Discord.cs if this extension is not required.
+21:00 [Info] CraftingController was compiled successfully in 3310ms
+21:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+21:00 [Info] TimeOfDay was compiled successfully in 3578ms
+21:00 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+21:00 [Info] QuickSmelt was compiled successfully in 540ms
+21:00 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 174ms
+21:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+21:01 [Info] BetterLoot was compiled successfully in 691ms
+21:01 [Info] [BetterLoot] No Blacklist found, creating new file...
+21:01 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+21:01 [Info] [BetterLoot] Exported 680 items to 'NamesList'
+21:01 [Info] [BetterLoot] Updating internals ...
+21:01 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+21:01 [Info] [BetterLoot] Removed 7 stacked LootContainer
+21:01 [Info] [BetterLoot] Populated '3512' supported containers.
+21:02 [Info] WipeKits was compiled successfully in 2774ms
+21:02 [Warning] [Wipe Kits] Loading default configuration file...
+21:02 [Info] Loaded plugin Wipe Kits v1.2.51 by Ryan
+21:02 [Info] Kits was compiled successfully in 3011ms
+21:02 [Info] Loaded plugin Kits v3.3.1 by Reneb
+21:03 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+21:03 [Info] Loaded plugin Kits v3.3.1 by Reneb
+21:04 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 160ms
+21:04 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+21:04 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+21:04 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+21:04 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 155ms
+21:04 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+21:04 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 156ms
+21:04 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+21:04 [Info] Unloaded plugin Wipe Kits v1.2.51 by Ryan
+21:04 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+21:04 [Info] Loading Oxide Core v2.0.3991...
+21:04 [Info] Loading extensions...
+21:04 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:04 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:04 [Info] Loaded extension Rust v2.0.4907 by Oxide Team and Contributors
+21:04 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:04 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:04 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:04 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:04 [Info] Using Covalence provider for game 'Rust'
+21:04 [Info] Loading plugins...
+21:04 [Info] Loaded plugin Rust v2.0.4907 by Oxide Team and Contributors
+21:04 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:04 [Error] Oxide.Ext.Discord is referenced by DiscordAuth plugin but is not loaded! An appropriate include file needs to be saved to plugins\include\Ext.Discord.cs if this extension is not required.
+21:04 [Info] BetterLoot, CraftingController, GatherManager, Kits, QuickSmelt, TimeOfDay and WipeKits were compiled successfully in 0ms
+21:04 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+21:04 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+21:04 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+21:04 [Info] Loaded plugin Kits v3.3.1 by Reneb
+21:04 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+21:04 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+21:04 [Info] Loaded plugin Wipe Kits v1.2.51 by Ryan
+21:14 [Info] IP address from Steam query: 0.0.0.0
+21:14 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+21:14 [Info] [BetterLoot] Updating internals ...
+21:14 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 133ms
+21:14 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 133ms
+21:14 [Info] [BetterLoot] No stacked LootContainer found.
+21:14 [Info] [BetterLoot] Populated '800' supported containers.
+22:15 [Info] The current crafting rate is 50%
+22:17 [Info] Groups:
+default, admin
+22:17 [Info] Player 'Sick Prodigy(76561198106966240)' added to group: admin
+22:22 [Info] PermissionsManager was compiled successfully in 3149ms
+22:22 [Info] [PermissionsManager] Creating new config file.
+22:22 [Info] Loaded plugin PermissionsManager v2.0.4 by Steenamaroo
