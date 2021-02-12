@@ -19,6 +19,7 @@ oxide.usergroup add <player_name or STEAM64_ID> group_name
 oxide.usergroup remove <player_name or STEAM64_ID> group_name
 oxide.revoke group admin coolplugin.use
 oxide.group add supporters
+oxide.group remove <group>
 oxide.group set supporters “[Server Supporters]”	// Group title set
 oxide.group set supporters “[Server Supporters]” 1		// Change group rank
 oxide.group parent tier_2 tier_1		// can also tier the groups for vip gold and vip diamond so auto add perms from lower group
@@ -26,6 +27,13 @@ oxide.grant user <user_name or STEAM64_ID> <permission>
 oxide.revoke user <user_name or STEAM64_ID> <permission>
 oxide.show user user_name		// show players assigned perms
 oxide.show perm coolplugin.use		// show who is assigned to that perm
+oxide.group parent <parentgroup><childgroup>
+oxide.group set <group><"[Title]"><rank>
+
+Setting the parent group of another group. A group will inherit all permissions from its parent group.
+
+oxide.group parent admin default
+
 
 
 **** Don't forget to log out and back in to set permissions!
