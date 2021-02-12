@@ -11,9 +11,7 @@
 <p>Check "<strong>Projects</strong>" tab above to see what things need "<strong>To Be done</strong>", "<strong>In Progress</strong>", and what's "<strong>Done</strong>"<br>
 </p>
 <br>
-<p>rconpassword="notorious123noto"</p>
-<p><br>
-</p>
+<br>
 <p><strong>Issues</strong> tab for current issues with code that need help or an issue you will come back to.<br>
 </p>
 <br>
