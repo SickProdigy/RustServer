@@ -2,6 +2,8 @@ Filezilla is to upload plugins and/or edit files.
 
 PuTTy is to restart the server if need be.
 
+RustAdmin for RCON support and easy commands. rconpassword=notorious123noto
+
 Filezilla:
 IP: 35.208.110.204
 User: ruster
