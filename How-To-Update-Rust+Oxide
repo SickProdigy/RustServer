@@ -8,6 +8,8 @@ https://linuxgsm.com/lgsm/rustserver/
 
 ./rustserver      // List Full commands
 
+./rustserver backup     // backup the server before you do anything as the update could fuck everything up. I backup the files through filezilla locally also (plugins and config files only)
+
 ./rustserver check-update   // check local and remote build
 
 ./rustserver stop
