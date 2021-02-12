@@ -29,3 +29,13 @@ oxide.show perm coolplugin.use		// show who is assigned to that perm
 
 
 **** Don't forget to log out and back in to set permissions!
+
+
+RUST GROUPS  -- NOT PART OF OXIDE
+
+ownerid 76561198106966240     // LVL 2 auth on everything
+moderatorid <your steam 64 id>    // lvl 1 auth on everything
+
+idk what moderator entails yet, but soon will find out. No reason to give out that permission, just use oxide groups.
+
+/perms    // Use for permission manager in game, fixed using with imagelibrary from umod
