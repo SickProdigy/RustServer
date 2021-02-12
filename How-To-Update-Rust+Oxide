@@ -8,14 +8,20 @@ https://linuxgsm.com/lgsm/rustserver/
 
 ./rustserver      // List Full commands
 
+./rustserver check-update   // check local and remote build
+
 ./rustserver stop
 ./rustserver update   // This will update rust, may wipe the server not sure
-./rustserver validate
+./rustserver validate     // validate files
 ./rustserver mods-update      // I reckon will just update the Oxide, not sure about plugins. shouldn't update plugins no.
+
 ./rustserver start
 
 ./rustserver restart
 ./rustserver details
 ./rustserver debug
 ./rustserver backup
-./rustserver monitor
+./rustserver monitor    // idk wtf 
+./rustserver console    // watch rustserver boot but doesnt really watch it, did at first.
+
+/home/ruster/rustserver/serverfiles/rustserver.txt    // Boot Log location, if server isn't booting check here for logs.
