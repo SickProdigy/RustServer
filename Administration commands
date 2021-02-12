@@ -1,0 +1,13 @@
+For Admins Mods and Maybe support:
+
+Admins:
+/padmin     // player administration
+Binding keys and saving the keybinds:bind p chat.say 0 /padminor:bind p "chat.say 0 /padmin"Then to save it:writecfg
+/perms      // player / group permission
+
+Mod:
+
+
+
+Support
+/mute   // idk just need to know what staff commands they have.
