@@ -22,6 +22,6 @@ https://linuxgsm.com/lgsm/rustserver/
 ./rustserver debug
 ./rustserver backup
 ./rustserver monitor    // idk wtf 
-./rustserver console    // watch rustserver boot but doesnt really watch it, did at first.
+./rustserver console    // watch rustserver boot but doesnt really watch it, did at first. // it now works, shows server boot. I changed some lines to log it locally so that kind of fucked it up.
 
 /home/ruster/rustserver/serverfiles/rustserver.txt    // Boot Log location, if server isn't booting check here for logs.
