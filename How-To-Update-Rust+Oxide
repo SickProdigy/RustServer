@@ -11,9 +11,9 @@ https://linuxgsm.com/lgsm/rustserver/
 ./rustserver check-update   // check local and remote build
 
 ./rustserver stop
-./rustserver update   // This will update rust, may wipe the server not sure
-./rustserver validate     // validate files
-./rustserver mods-update      // I reckon will just update the Oxide, not sure about plugins. shouldn't update plugins no.
+./rustserver update   // This will update rust, may wipe the server not sure    // This killed the server last time so please be weary of running it. Only on main updates
+./rustserver validate     // validate files, this will overwrite some rust files like mods and stuff, why you must install mods after, but idk how to update and then update oxide, because they have to be on the same update. Can't update till oxide updates.
+./rustserver mods-update      // I reckon will just update the Oxide, not sure about plugins. shouldn't update plugins no. MAKE SURE RUST UPDATE MATCHES
 
 ./rustserver start
 
@@ -21,7 +21,7 @@ https://linuxgsm.com/lgsm/rustserver/
 ./rustserver details
 ./rustserver debug
 ./rustserver backup
-./rustserver monitor    // idk wtf 
+./rustserver monitor    // monitors the server and if it goes down, will restart it automatically, can configure with crontab -e to start on boot also. (if server restarts)
 ./rustserver console    // watch rustserver boot but doesnt really watch it, did at first. // it now works, shows server boot. I changed some lines to log it locally so that kind of fucked it up.
 ctrl+b the press "d" to exit console.   (ctrl+c will fuck it up and you must stop and start server again)
 /home/ruster/rustserver/serverfiles/rustserver.txt    // Boot Log location, if server isn't booting check here for logs.
