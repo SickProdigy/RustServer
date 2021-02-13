@@ -27,3 +27,8 @@ https://linuxgsm.com/lgsm/rustserver/
 ./rustserver console    // watch rustserver boot but doesnt really watch it, did at first. // it now works, shows server boot. I changed some lines to log it locally so that kind of fucked it up.
 ctrl+b the press "d" to exit console.   (ctrl+c will fuck it up and you must stop and start server again)
 /home/ruster/rustserver/serverfiles/rustserver.txt    // Boot Log location, if server isn't booting check here for logs.
+
+
+To wipe the map:
+./rustserver wipe
+./rustserver full-wipe    // Blueprint wipe
