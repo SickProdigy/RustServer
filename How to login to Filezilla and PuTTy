@@ -12,7 +12,7 @@ pw: Key file sent in discord
 Putty:
 IP: rsa-key-20210207@35.208.110.204
 Settings >> SSH >> AUTH >> Add the private key file for authentication >> Back to "Session" >> Save (make sure to name it) >> Open
-
+rsakey Pass: Notorious123
 
 open in text document save as Rust-SSH-Key-Private.ppk, use putty gen to open, Password is "Notorious123"
 
