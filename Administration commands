@@ -7,6 +7,9 @@ Binding keys and saving the keybinds:bind p chat.say 0 /padminor:bind p "chat.sa
 playeradministration.closeui
 keybind: bind o "chat.say /padmin"
 keybind: bind p "playeradministration.closeui"
+bind [leftshift+P] "chat.say /padmin"   // i gots a better idea!
+bind p playeradministration.closeui
+bind o clear    // How to unbind
 
 /perms      // player / group permission
 
