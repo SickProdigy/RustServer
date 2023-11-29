@@ -2,7 +2,7 @@ Filezilla is to upload plugins and/or edit files.
 
 PuTTy is to restart the server if need be.
 
-RustAdmin for RCON support and easy commands. rconpassword=notorious123noto
+RustAdmin for RCON support and easy commands. rconpassword=redacted
 
 Filezilla:
 IP: 35.208.110.204
@@ -12,9 +12,9 @@ pw: Key file sent in discord
 Putty:
 IP: rsa-key-20210207@35.208.110.204
 Settings >> SSH >> AUTH >> Add the private key file for authentication >> Back to "Session" >> Save (make sure to name it) >> Open
-rsakey Pass: Notorious123
+rsakey Pass: Redacted
 
-open in text document save as Rust-SSH-Key-Private.ppk, use putty gen to open, Password is "Notorious123"
+open in text document save as Rust-SSH-Key-Private.ppk, use putty gen to open, Password is "redacted"
 
 PuTTY-User-Key-File-2: ssh-rsa
 Encryption: aes256-cbc
