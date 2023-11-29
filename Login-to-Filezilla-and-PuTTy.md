@@ -1,15 +1,15 @@
-Filezilla is to upload plugins and/or edit files.
+# How to login to filezilla or putty to transfer files
 
-PuTTy is to restart the server if need be.
+1. Filezilla is to upload plugins and/or edit files.
+2. PuTTy is to restart the server if need be.
+3. RustAdmin for RCON support and easy commands. rconpassword=redacted
 
-RustAdmin for RCON support and easy commands. rconpassword=redacted
-
-Filezilla:
+## Filezilla:
 IP: 35.208.110.204
 User: ruster
 pw: Key file sent in discord
 
-Putty:
+## Putty:
 IP: rsa-key-20210207@35.208.110.204
 Settings >> SSH >> AUTH >> Add the private key file for authentication >> Back to "Session" >> Save (make sure to name it) >> Open
 rsakey Pass: Redacted
