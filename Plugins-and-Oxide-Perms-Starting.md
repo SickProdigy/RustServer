@@ -1,39 +1,40 @@
+# Rust Server Plugins + Oxide Perms Starting
 
-Main Plugins Here:
+## Main Plugins Here:
 
-https://umod.org/plugins/gather-manager
-https://umod.org/plugins/time-of-day		// for short nights
-https://umod.org/plugins/clear-night
-https://umod.org/plugins/discord-auth
-https://umod.org/plugins/quick-smelt
-https://umod.org/plugins/stack-size-controller
-https://umod.org/plugins/better-loot		// for barrels and shit and crates
-https://umod.org/plugins/better-chat		// to see mods and admins in chat
-https://umod.org/plugins/crafting-controller		// quicker crafting
-https://umod.org/plugins/fancy-drop
-https://umod.org/plugins/loading-messages		// advertise discord
-https://umod.org/plugins/unburnable-meat
-https://umod.org/plugins/advert-messages
-https://umod.org/plugins/wounded-screams
-https://umod.org/plugins/info-panel
-https://umod.org/plugins/server-info
-https://umod.org/plugins/welcome-screen
-https://umod.org/plugins/image-library
-https://umod.org/plugins/compound-options
-https://umod.org/plugins/quick-sort
-https://umod.org/plugins/clans
+- https://umod.org/plugins/gather-manager
+- https://umod.org/plugins/time-of-day		// for short nights
+- https://umod.org/plugins/clear-night
+- https://umod.org/plugins/discord-auth
+- https://umod.org/plugins/quick-smelt
+- https://umod.org/plugins/stack-size-controller
+- https://umod.org/plugins/better-loot		// for barrels and shit and crates
+- https://umod.org/plugins/better-chat		// to see mods and admins in chat
+- https://umod.org/plugins/crafting-controller		// quicker crafting
+- https://umod.org/plugins/fancy-drop
+- https://umod.org/plugins/loading-messages		// advertise discord
+- https://umod.org/plugins/unburnable-meat
+- https://umod.org/plugins/advert-messages
+- https://umod.org/plugins/wounded-screams
+- https://umod.org/plugins/info-panel
+- https://umod.org/plugins/server-info
+- https://umod.org/plugins/welcome-screen
+- https://umod.org/plugins/image-library
+- https://umod.org/plugins/compound-options
+- https://umod.org/plugins/quick-sort
+- https://umod.org/plugins/clans
 
-Moderator Plugins:
-https://umod.org/plugins/vanish
-https://umod.org/plugins/better-chat-mute
-https://umod.org/plugins/admin-panel		// 9 months old
-https://umod.org/plugins/remover-tool
-https://umod.org/plugins/godmode
-https://umod.org/plugins/admin-logger
-https://umod.org/plugins/player-administration			// 30 days old
+### Moderator Plugins:
+- https://umod.org/plugins/vanish
+- https://umod.org/plugins/better-chat-mute
+- https://umod.org/plugins/admin-panel		// 9 months old
+- https://umod.org/plugins/remover-tool
+- https://umod.org/plugins/godmode
+- https://umod.org/plugins/admin-logger
+- https://umod.org/plugins/player-administration			// 30 days old
 
 
-Donator Options below:
+### Donator Options below:
 https://umod.org/plugins/active-sort
 https://umod.org/plugins/furnace-splitter
 https://umod.org/plugins/skins
@@ -42,7 +43,7 @@ https://umod.org/plugins/wipe-kits
 Skinbox - already added
 
 
-Optional Plugins: (ideas to build from)
+### Optional Plugins: (ideas to build from)
 https://umod.org/plugins/godmode
 https://umod.org/plugins/backpacks		// maybe for donators
 https://umod.org/plugins/skip-night-vote
@@ -58,10 +59,10 @@ https://umod.org/plugins/raid-alarm
 https://umod.org/plugins/clear-repair
 
 
-__________________________________________________________________________
+---
 
 
-Already added plugins: (Please move to here after)
+## Already added plugins: (Please move to here after)
 
 
 In game run this:
@@ -79,9 +80,9 @@ oxide.reload QuickSmelt
 oxide.grant group default quicksmelt.use
 
 
-__________________________________________________________________________
+---
 
-Permissions and groups:
+## Permissions and groups:
 
 oxide.show groups
 
