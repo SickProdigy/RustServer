@@ -1,3 +1,5 @@
+# Server Title, Description, and images
+
 Had troubles remembering this so want to write it here.
 
 
