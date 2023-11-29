@@ -1,6 +1,6 @@
-For Admins Mods and Maybe support:
+# Administration Commands for Admins and Mods + Support Roles
 
-Admins:
+## Admin Command List:
 
 /padmin     // player administration
 Binding keys and saving the keybinds:bind p chat.say 0 /padminor:bind p "chat.say 0 /padmin"Then to save it:writecfg
@@ -15,10 +15,9 @@ bind o clear    // How to unbind
 
 /other mods admins have that others don't, so we can have a full list everyone can view to know who to get in contact with.
 
-Mod:
 
-Mod commands list
+## Mod commands list:
 
-Support
+### Support
 
 /mute   // idk just need to know what staff commands they have.
