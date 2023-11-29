@@ -1,4 +1,4 @@
-Permissions and groups:
+# Permissions and groups:
 
 These commands can be ran in RustAdmin. "Type a command to execute", takes forever implemnting permissions this way. we need a gui or something. 
 but we can just slowly give permissions for the time bing.
@@ -13,7 +13,7 @@ oxide.grant group admin skinbox.admin
 
 oxide.grant group admin permissionsmanager.allowed
 
-oxide.show perms ‘group_name’		// to see perms of a group
+oxide.show perms 'group_name'		// to see perms of a group
 oxide.show group admin			// to see users of a group
 oxide.usergroup add <player_name or STEAM64_ID> group_name
 oxide.usergroup remove <player_name or STEAM64_ID> group_name
@@ -46,4 +46,4 @@ moderatorid <your steam 64 id>    // lvl 1 auth on everything
 
 idk what moderator entails yet, but soon will find out. No reason to give out that permission, just use oxide groups.
 
-/perms    // Use for permission manager in game, fixed using with imagelibrary from umod
+/perms    # Use for permission manager in game, fixed using with imagelibrary from umod
