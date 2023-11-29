@@ -1,3 +1,5 @@
+# Skinbox Information and Examples
+
 Help on the SkinBox:
 
 "skinbox.use" - Required to open the SkinBox
