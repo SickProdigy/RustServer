@@ -1,3 +1,8 @@
+# Complete Rust Install Method
+
+Use putty, login to server (SSH shell)
+Login to user, shouldn't be root, but doesn't matter if testing.
+
 35.209.133.227 
 Rustication SickProdigy@gmail.com
  
