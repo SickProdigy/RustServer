@@ -15,12 +15,12 @@ The links below will be able to help you get through some of the tasks quicker.
 
 Links to other pages:
 
-[Administration-Commands](Administration-Commands.md)
-[How-To-Update-Rust+Oxide](How-To-Update-Rust+Oxide)
-[Login-to-Filezilla-and-PuTTy](Login-to-Filezilla-and-PuTTy.md)
-[Permissions-and-Groups](Permissions-and-Groups.md)
-[Plugins-and-Oxide-Perms-Starting](Plugins-and-Oxide-Perms-Starting.md)
-[Potential-Plugin-Ideas](Potential-Plugin-Ideas.md)
-[Rust-Server-Install-Start-to-Finish](Rust-Server-Install-Start-to-Finish.md)
-[Server-Title-Description-Images](Server-Title-Description-Images.md)
-[SkinBox-Info](SkinBox-Info.md)
+- [Administration-Commands](Administration-Commands.md)
+- [How-To-Update-Rust+Oxide](How-To-Update-Rust+Oxide)
+- [Login-to-Filezilla-and-PuTTy](Login-to-Filezilla-and-PuTTy.md)
+- [Permissions-and-Groups](Permissions-and-Groups.md)
+- [Plugins-and-Oxide-Perms-Starting](Plugins-and-Oxide-Perms-Starting.md)
+- [Potential-Plugin-Ideas](Potential-Plugin-Ideas.md)
+- [Rust-Server-Install-Start-to-Finish](Rust-Server-Install-Start-to-Finish.md)
+- [Server-Title-Description-Images](Server-Title-Description-Images.md)
+- [SkinBox-Info](SkinBox-Info.md)
